@@ -1,2 +1,2 @@
 # OpenLabTools-Resources-EnvironmentalChambers
-OpenLabTools environmental chambers resources
+OpenLabTools environmental chamber resources
